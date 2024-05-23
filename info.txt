@@ -1,0 +1,4 @@
+name = "Jane Smith"
+SID = "0123456789"
+email = "jsmith@berkeley.edu"
+github_name = "janesmith"
